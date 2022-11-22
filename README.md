@@ -28,7 +28,7 @@ $ git clone https://github.com/blisgard/image-seperation`
 `$ pip install -r requirements.txt`
 
 ` $ cd yolov3 &&
-python3 detect.py`
+python3 detect.py --source <Your_image_source>`
 
 ## Notes:
 
